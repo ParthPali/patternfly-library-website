@@ -23,6 +23,6 @@ The Last tab is for Admin login. There will be a link to a similar login page ho
 ## Editing
 The page will reload if you make edits.
 
-### 'ctrl + c'
+### `ctrl + c`
 
 This stops the server and closes the project.
